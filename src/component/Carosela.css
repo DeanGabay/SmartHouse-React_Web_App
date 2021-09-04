@@ -1,0 +1,24 @@
+#flat_div {
+  background-color: rgb(192, 189, 189);
+  height: 498px;
+}
+#info {
+  color: rgba(0, 0, 0, 0.9);
+  font-size: 18px;
+  position: relative;
+  bottom: 100px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+#title {
+  color: #f8f9fa;
+  position: relative;
+  bottom: 130px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+#BU_addRoom {
+  position: relative;
+  border-radius: 50px;
+  bottom: 100px;
+}

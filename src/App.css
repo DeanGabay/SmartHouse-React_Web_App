@@ -1,0 +1,19 @@
+.navbar-brand {
+  font-size: 30px;
+}
+.nav-item:hover {
+  font-weight: 500;
+}
+#link {
+  text-decoration: inherit;
+}
+#B_addRoom {
+  border-radius: 50px;
+  position: absolute;
+  top: 330px;
+  left: 550px;
+}
+#wrapper {
+  text-align: center;
+  margin: 0px 0px;
+}

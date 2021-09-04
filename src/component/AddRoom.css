@@ -1,0 +1,9 @@
+.row {
+  position: relative;
+  top: 150px;
+}
+#B_createRoom {
+  position: absolute;
+  top: 50%;
+  right: 3%;
+}
