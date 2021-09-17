@@ -2,8 +2,7 @@
   "name": "smarthouse",
   "version": "0.1.0",
   "engines": {
-    "npm": "6.x"
-  },
+    "node": "14.x"  },
   "private": true,
   "homepage": "https://deangabay.github.io/WebApp--SmartHouse/",
   "dependencies": {
